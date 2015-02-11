@@ -259,7 +259,12 @@ different Diſtances at preſent; which is in a duplicate Proportion of thoſe D
             </div>
             <div n="4" type="proposition">
                <p n="4">IV. A ſtrong Wind carries Sound along with it in a Circle; where the Sounding Body is a Point in its Axis: and is more or leſs remote from its Center, according as the Wind is greater or leſs.</p>
-               <figure/>
+               <p>
+                  <pb n="32" facs="tcp:0161901100:31"/>
+This appears by the Demonſtration following. Let the Proportion of the Velocity of the Wind, to the Velocity of the Motion of the Air that cauſes the Sound, be as AB to AD. <figure/>
+Let the two equal Circles GDHE, GCHF, be deſcribed upon the Cen<g ref="char:EOLhyphen"/>ters A and B; and let any Line, as KL, be drawn Parallel to DF. KI will therefore be always equal to
+<pb n="33" facs="tcp:0161901100:32"/>
+ML. or to the Velocity of the Wind, and according to its direction: as AM = AK = BL = BI will be equal to the Velocity of the Motion of the Air that cauſes the ſound, and according to its direction; or from the Center to the Circumference of that Circle which includes the ſound. Whence the Diago<g ref="char:EOLhyphen"/>nals BK, BM will be the diſtance or mea<g ref="char:EOLhyphen"/>ſure of the Equal ſounds; and the points K. M will be in the Circumference of that Circle GDHE of which the ſound<g ref="char:EOLhyphen"/>ing body B is a point in its Axis. Q.E.D.</p>
                <p>Corollary (1.) Becauſe the Lines AB and AK, and the Angle BAK are given; the diſtance of equal ſounds BK is alſo given by plain Trigonometry. As the ſame line may be found Geometrically alſo, by applying its length to a ſcale of equal parts.</p>
                <p>
                   <pb n="34" facs="tcp:0161901100:33"/>
@@ -307,7 +312,12 @@ without the allowance for refracti<g ref="char:EOLhyphen"/>on, or for the elevat
                <p>The former branch is evident from the nature of a Sphere, with the uſual Tables of Tangents and Secants: and may thus be computed by plain Tri<g ref="char:EOLhyphen"/>gonometry. Suppoſing the eye of
 <pb n="41" facs="tcp:0161901100:40"/>
 the Spectator placed at the ſurface of the Sea; and not conſidering the very ſmall difference by the refra<g ref="char:EOLhyphen"/>ction.</p>
-               <figure/>
+               <p>Let A repreſent the Earth's Center, BD the length of the Secant of 1°.
+<figure/>
+                  <pb n="42" facs="tcp:0161901100:41"/>
+2′ 5. above the Radius; or 6440 feet. ED the Tangent of the ſame Angle. CB the length of the Secant above the Radius, at any leſſer Angle, as BAF. and CF the Tangent of that laſt Angle. 'Tis evident that the Angle DFC is the elevation of the fire or light above the horizon at any given Point F. and that in the plain Trian<g ref="char:EOLhyphen"/>gle DCF the Angle DCF is given, equal to a right Angle, and to the An<g ref="char:EOLhyphen"/>gle FAB. FCB is its complement; and equal to the ſum of the remote Angles CFD, and CDF. The inclu<g ref="char:EOLhyphen"/>ding ſides alſo CF and CD are given; the former being the Tangent of the given Angle FAB, and the latter the difference of the Secant of the ſame Angle from the Secant of 1°. 25. So that by the known Rule of plain Trigonometry, as the ſum of the ſides, CF + CD, is to their difference,
+<pb n="43" facs="tcp:0161901100:42"/>
+CF − CD, or CD − CF: So is the Tangent of the Semiſum of the Angles, ½ CFD + ½ CDF = ½ FCB, to the Tangent of their Semidifference. Which Semidifference ſubſtracted at remoter and added at nearer diſtances to that Semiſum; gives the Angle ſought CFD. Q.E.I.</p>
                <p>According to this Rule the follow<g ref="char:EOLhyphen"/>ing Table is made to every Minute, or Geographical Mile; for the eaſe of all that may uſe this Method, and may deſire ſome exactneſs therein.</p>
                <p>
                   <table>
@@ -1429,7 +1439,14 @@ equal Diſtances between the Hulls, for the more ſure guiding the Ships in Plac
 (7.) If in any clear Night a ſuffi<g ref="char:EOLhyphen"/>cient Number of ſuch Exploſions were made at proper Diſtances in any Country, and convey'd in or<g ref="char:EOLhyphen"/>der from one to another; ſo that the Second Gun were fired when the Light of the Firſt was ſeen, or other<g ref="char:EOLhyphen"/>wiſe; with the Obſervation of the exact apparent Times when they were made, when the Light was ſeen, what Angle, or how long that Light was above the Horizon, and what Azimuth it had; both the Longitude and Latitude, as well as the Diſtance and Poſition of all theſe Places, might by this means be rea<g ref="char:EOLhyphen"/>dily determin'd at Land; eſpecially if the Experiments were repeated ſeveral times, and were compar'd one with another. And by the ſame Obſervations every where, the Lon<g ref="char:EOLhyphen"/>gitude and Latitude, Diſtance and Poſition, of all other Neighbour<g ref="char:EOLhyphen"/>ing
 <pb n="70" facs="tcp:0161901100:69"/>
 Places from thoſe, and ſo from another, might be readily deter<g ref="char:EOLhyphen"/>min'd alſo.</p>
-            <figure/>
+            <p>
+               <hi>N.B.</hi> This Method of Survey is no hard Thing in Practice, even to thoſe that know little of the Ma<g ref="char:EOLhyphen"/>thematicks: For any Right Angle, ſet by a Plummet or Level, with Two Pins or Points, for the Eye and for the Object, does by the Propor<g ref="char:EOLhyphen"/>tion of its Sides give the Angle above the Horizon; by the Angle its Horizontal Side makes with the Meridian, it gives the Azimuth; and by the Interval of Time be<g ref="char:EOLhyphen"/>tween the Light and Sound, it gives the Diſtance of every Place from that of Exploſion, according to the Figure following. <pb n="71" facs="tcp:0161901100:70"/>
+               <figure/>
+Where AB repreſents the Horizon<g ref="char:EOLhyphen"/>tal Side of the Norma or Square, and BC the Perpendicular Side; whoſe Proportion once given, as ſuppoſe 80 to 35, the Diſcovery of the Angle of Elevation CAB is moſt eaſy, as here 23° 38′ Where alſo NS. repreſents the Meridian Line lying from <hi>North</hi> to <hi>South;</hi> and the Angle SAB, ſuppoſe of 32 Degrees, 15 Minutes, repreſents the Azimuth, <hi>Eaſtward.</hi> We need not add that a Plummet of 9<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>8 In<g ref="char:EOLhyphen"/>ches
+<pb n="72" facs="tcp:0161901100:71"/>
+long will vibrate half Seconds, for the Interval of Time between the Light ſeen and the Sound heard. Nor is there, we think, any way yet diſcover'd of ſurveying Countries and Kingdoms that can compare with this, either for Expedition, Cer<g ref="char:EOLhyphen"/>tainty or Cheapneſs. A Specimen of which we hope ſoon to give the World in an Actual Survey of <hi>Great-Britain</hi> and <hi>Ireland,</hi> and their Coaſts hereby; if the Publick pleaſe to give us Encouragement and Aſſi<g ref="char:EOLhyphen"/>ſtance therein.</p>
             <p n="8">(8.) The way of caſting a Shell 6440 Feet high is very eaſy: for the ſame Force or Charge of Gun-pow<g ref="char:EOLhyphen"/>der that will caſt any Shell 12880 Feet for its utmoſt Random, at the Elevation of 45 Degrees, will cer<g ref="char:EOLhyphen"/>tainly caſt the ſame Shell perpendi<g ref="char:EOLhyphen"/>cularly upward 6440 Feet, as we have already obſerv'd. And ſince the time of this entire perpendicu<g ref="char:EOLhyphen"/>lar Projection, or Aſcent and Deſcent
 <pb n="73" facs="tcp:0161901100:72"/>
 together, is 40″, or ſome very ſmall Matter more; on Account of the Reſiſtance of the Air; We have ano<g ref="char:EOLhyphen"/>ther ſure Way of Adjuſting the ſame Projection to that Height; <hi>viz.</hi> by obſerving what Quantity of Powder will caſt the Shell high enough to ſtay very little above 40″ in the Air, before it falls to the Ground.</p>
